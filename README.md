@@ -77,7 +77,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [OpenNebula](http://opennebula.org/) - An user-driven cloud management platform for sysadmins and devops.
 * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
 * [The Foreman](http://theforeman.org/) - Foreman is a complete lifecycle management tool for physical and virtual servers. FOSS.
-* [Cobbler](http://www.cobblerd.org/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments. 
+* [Cobbler](http://www.cobblerd.org/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments.
 * [Mesos](http://mesos.apache.org/) - Develop and run resource-efficient distributed systems.
 
 ## Cloud Orchestration
@@ -294,6 +294,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Queuing
 
 * [BeanstalkD](http://kr.github.io/beanstalkd/) - A simple, fast work queue.
+* [Kafka](https://kafka.apache.org/) - A publish-subscribe messaging rethought as a distributed commit log.
 * [NSQ](http://nsq.io/) - A realtime distributed messaging platform.
 * [RabbitMQ](http://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
 * [ZeroMQ](http://zeromq.org/) - Lightweight queuing system.
